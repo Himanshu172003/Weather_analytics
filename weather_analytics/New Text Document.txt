@@ -1,0 +1,5 @@
+@echo off
+cd /d C:\Users\arjun\Downloads\weather_analytics
+echo Starting Weather Analytics App...
+mvn spring-boot:run
+pause

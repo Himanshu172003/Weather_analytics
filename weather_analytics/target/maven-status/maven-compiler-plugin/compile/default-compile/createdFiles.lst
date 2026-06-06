@@ -1,0 +1,5 @@
+com\example\weather_analytics\repository\WeatherRepository.class
+com\example\weather_analytics\WeatherAnalyticsApplication.class
+com\example\weather_analytics\model\WeatherData.class
+com\example\weather_analytics\service\WeatherService.class
+com\example\weather_analytics\controller\WeatherController.class
